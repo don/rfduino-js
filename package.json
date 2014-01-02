@@ -1,0 +1,13 @@
+{
+  "name": "rfduino",
+  "version": "0.0.1",
+  "description": "Library for RFduino.",
+  "main": "index.js",
+  "dependencies": {
+    "noble": "",
+	"underscore": ""
+  },
+  "engines": {
+     "node": ">=0.10.22"
+   }
+}
